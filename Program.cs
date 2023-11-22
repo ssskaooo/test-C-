@@ -11,6 +11,7 @@
 [“Russia”, “Denmark”, “Kazan”] → []
 */
 
+
 string[] CreateArray()
 {
     Console.Write("Введите размер массива: ");
